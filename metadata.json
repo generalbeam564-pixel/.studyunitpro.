@@ -1,0 +1,7 @@
+{
+  "name": "StudyUnitPro",
+  "description": "The elite AI study cockpit. Turn notes into high-performance study plans, practice quizzes, and advanced flashcards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
